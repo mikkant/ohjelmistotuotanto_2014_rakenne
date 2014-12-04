@@ -1,9 +1,6 @@
 ##  Järjestelmäarkkitehtuuri
 
-* Pyri kuvailemaan tässä luvussa järjestelmäarkkitehtuuri yleisellä tasolla
-* Mitä komponentteja järjestelmään tarvitaan jotta se pystyy palvelemaan määritettyjä käyttötapauksia?
-
-Sovelluksen järjestelmäarkkitehtuuri asteittain
+### Sovelluksen järjestelmäarkkitehtuuri asteittain
 
 * Käyttäjätiedot
 	* Sisältää käyttäjien tuubi-tunnuksien tiedot, eli säköpostiosoitteen, käyttäjänimet ja salasanat.
@@ -19,6 +16,9 @@ Sovelluksen järjestelmäarkkitehtuuri asteittain
 
 * Chat-näkymä
 	* Mahdollistaa reaaliaikaisen vuorovaikuttamisen muiden käyttäjien kesken.
+	
+* Kielenvaihto
+	* Mahdollistaa Kielen valinnan suomen- ja englanninkielen välillä
 	
 * Ylläpito
 	* Ylläpidolla on mahdollisuus poistaa epäasiallisesti Chatissa käyttäytyvän tai koulutuksensa keskeyttäneen opiskelijan tunnus.
