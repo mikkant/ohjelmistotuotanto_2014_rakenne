@@ -10,6 +10,7 @@
 * Sovelluksesta poistutaan kirjautumalla ulos
 * Sovelluksen sulkeminen = uloskirjautuminen
 * Luokkahaun tulokset saattavat sisältää numeron lisäksi myös luokan nimen esim. "Vaara"
+* Soveltuu myös englanninkielisille käyttäjille
 	
 	
 ## Ei-Funktionaaliset vaatimukset
