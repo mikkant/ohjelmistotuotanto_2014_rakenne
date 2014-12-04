@@ -26,4 +26,4 @@
 			opettajan olevan kokoustilassa.
 - 4. kohta: Vierailija näkee ruudulta missä luennoitsija sijaitsee. Löytää luentosalin hetkessä.
 
-![kayttotapaus 1.](http://www.users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
+![kayttotapaus 1.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
