@@ -6,15 +6,19 @@
 
 ## Näkymät   
 	
-* Sisäänkirjautuminen: Koostuu käyttäjätunnus- ja salasanakentästä. Toimii tuubitunnuksilla ja oikeilla tunnuksilla ohjaa etusivulle.
-![Sisäänkirjautuminen](https://moqups.com/Nikij/TNu73LoF/p:a7ca1fbe8)	
-* Etusivu: Etusivu koostuu pohjapiirroksesta ja valintapainikkeista. Valintapainikkeilla saadaan esille haettavat kohteet.
+* Sisäänkirjautuminen: Koostuu käyttäjätunnus- ja salasanakentästä. Toimii tuubitunnuksilla. 
+Käyttäjä syöttää tekstikenttiin tunnuksensa ja oikeilla tunnuksilla sovellus ohjaa käyttänän etusivulle.
+![Sisäänkirjautuminen](http://users.metropolia.fi/~nikij/mCon/Kirjautuminen%20%281%29.png)	
+* Etusivu: Etusivu koostuu pohjapiirroksesta ja valintapainikkeista. Valintapainikkeilla saadaan esille haettavat kohteet. Näkyviä kohteita ovat hakukenttä, profiilikuvake,
+kerros(1,2,3), käyttäjäryhmä(oppilas, henkilökunta, opettaja)
 	
-* Hakukenttä: Vapaa haku, esim nimen perusteella. 3 valintapainiketta: Opettajat, Henkilökunta, oppilaat. Painikkeita painamalla listaa kaikki mahdolliset hakukohteet Liittyen valintaan.
+* Hakukenttä: Vapaa haku, esim nimen perusteella. Haun suorittamalla listaa kaikki mahdolliset hakukohteet liittyen valintaan.
 
-* Chat-näkymä: Erillinen näkymä johon pääsee sivupyyhkäisyllä. Sisältää hakupalkin jossa nimen perusteella haetaan chat-paria.
+* Chat-näkymä: Erillinen näkymä johon pääsee alalaidassa olevalla pyyhkaisypalkilla. Sisältää hakupalkin jossa nimen perusteella haetaan chat-paria ja kirjoituskentän johon syötetään/
+vastaanotetaan tekstiä
 
-* Haun tulokset: Kohdennettu näkymä kartasta, joka antaa kohteen tarkan sijainnin koululla.
+* Haun tulokset: Sisältää suoritetun haun tulokset ja antaa kohteen koordinaatit kartalla ja kirjallisesti.
+
 
 ##Esim 1. 
     Oppilas on uusinut tentin kaksi viikkoa sitten, muttei ole saanut arvosanaa uusintatentistä. 
