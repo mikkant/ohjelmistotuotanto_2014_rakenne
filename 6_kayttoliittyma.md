@@ -6,19 +6,24 @@
 
 ## Näkymät   
 	
-* Sisäänkirjautuminen: Koostuu käyttäjätunnus- ja salasanakentästä. Toimii tuubitunnuksilla. 
-Käyttäjä syöttää tekstikenttiin tunnuksensa ja oikeilla tunnuksilla sovellus ohjaa käyttänän etusivulle.
+* Sisäänkirjautuminen: 
+Koostuu käyttäjätunnus- ja salasanakentästä. Toimii tuubitunnuksilla. 
+Käyttäjä syöttää tekstikenttiin tunnuksensa ja oikeilla tunnuksilla sovellus ohjaa käyttäjän etusivulle.
 ![Sisäänkirjautuminen](http://users.metropolia.fi/~nikij/mCon/Kirjautuminen%20%281%29.png)	
-* Etusivu: Etusivu koostuu pohjapiirroksesta ja valintapainikkeista. Valintapainikkeilla saadaan esille haettavat kohteet. Näkyviä kohteita ovat hakukenttä, profiilikuvake,
+* Etusivu:
+ Etusivu koostuu pohjapiirroksesta ja valintapainikkeista. Valintapainikkeilla saadaan esille haettavat kohteet. Näkyviä kohteita ovat hakukenttä, profiilikuvake,
 kerros(1,2,3), käyttäjäryhmä(oppilas, henkilökunta, opettaja)
-	
-* Hakukenttä: Vapaa haku, esim nimen perusteella. Haun suorittamalla listaa kaikki mahdolliset hakukohteet liittyen valintaan.
-
-* Chat-näkymä: Erillinen näkymä johon pääsee alalaidassa olevalla pyyhkaisypalkilla. Sisältää hakupalkin jossa nimen perusteella haetaan chat-paria ja kirjoituskentän johon syötetään/
+![Etusivu](http://users.metropolia.fi/~nikij/mCon/Etusivu,_Avatar_painettu%20%283%29.png)	
+* Hakukenttä:
+Vapaa haku, esim nimen perusteella. Haun suorittamalla listaa kaikki mahdolliset hakukohteet liittyen valintaan.
+![hakukenttä](http://users.metropolia.fi/~nikij/mCon/Etusivu%20%282%29_haku.png)
+* Chat-näkymä: 
+Erillinen näkymä johon pääsee alalaidassa olevalla pyyhkaisypalkilla. Sisältää hakupalkin jossa nimen perusteella haetaan chat-paria ja kirjoituskentän johon syötetään/
 vastaanotetaan tekstiä
-
-* Haun tulokset: Sisältää suoritetun haun tulokset ja antaa kohteen koordinaatit kartalla ja kirjallisesti.
-
+![chat] (http://users.metropolia.fi/~nikij/mCon/Chat-n%C3%A4kym%C3%A4%20%284%29.png)
+* Haun tulokset: 
+Sisältää suoritetun haun tulokset ja antaa kohteen koordinaatit kartalla ja kirjallisesti.
+![haun tulokset] (http://users.metropolia.fi/~nikij/mCon/Etusivu%20%282%29_hauntulokset.png)
 
 ##Esim 1. 
     Oppilas on uusinut tentin kaksi viikkoa sitten, muttei ole saanut arvosanaa uusintatentistä. 
@@ -38,10 +43,4 @@ vastaanotetaan tekstiä
     Oppilas ei tiedä pidetäänkö tuntia. Hän haluaa kysyä joltakin siitä. 
 	-> Käynnistää sovelluksen, avaa chat-ikkunan ja kysyy yleisestä keskusteluhuoneesta onko joku tietoinen asiasta.
 
-	
-## Liikkuminen näkymien välillä
-
-	Sisäänkirjautumisnäkymästä pääsee oikeilla tuubi-tunnuksilla etusivulle.
-	Etusivu-näkymä sisältää hakukentät ja haun tulokset avautuvat etusivunäkymään.
-	Chat-näkymä avautuu etusivun alalaidassa olevalla pyyhkäisypalkilla.
 
