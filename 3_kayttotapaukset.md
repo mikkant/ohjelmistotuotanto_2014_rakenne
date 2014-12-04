@@ -1,23 +1,3 @@
-## Käyttötapaukset
-
-* Määritä tänne järjestelmän loppukäyttäjät
-* Käyttötapauskaavio, jossa järjestelmän keskeiset käyttötapaukset
-* Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
-  * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
-  * kerro myös kuinka normaali kulku voi mennä pieleen sekä
-  * mahdolliset vaihtoehtoiset kulut (alternate flow)
-  
-  Järjestelmän loppukäyttäjät koostuvat oppilaista, opettajista, henkilökunnasta ja vierailijoista.
-  
-
-
-## 1. Mitkä ovat järjestelmän keskeiset käyttötapaukset? Mille käyttäjäryhmälle? ##
-- Opettajat/henkilökunta voivat etsiä kiiretilanteessa toisensa.
-- Oppilaat voivat löytää tarvitsemansa henkilökohtaisen avun nopeasti.
-- Tarvittaessa löydetään nopeasti joku hädänhetkellä.
-- Vierailijat voivat etsiä tietyn opettajan/luennoitsijan tullessaan ensi kertaa taloon.
-
-
 ### Skenaario 1:
 
 Talonmies on saanut useita valituksia puhelimitse ja kasvotusten. Valituksen aiheena on auto, joka on valunut osittain koulun parkkipaikan ajoväylälle ja näin estää kulun ajoväylällä.
@@ -31,6 +11,18 @@ jotta ajoväylä saadaan jälleen käyttöön.
 Talonmies lähtee jatkamaan omia töitänsä ja opettaja viimeistelee annoksensa. Tämän jälkeen opettaja lähtee samoin siirtämään ajoneuvoa, jonka jälkeen ajoväylä onkin jo taas käytössä. 
 
 ![kayttotapaus 1.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
+
+### Skenaario 2:
+
+Kurssin alussa on annettu tehtävä, jonka viimeinen palautusaika on 15 min kuluttua. Oppilas on laiskotellut lähes koko kurssin alun ja aloittanut vasta palautusta edeltävänä viikkona tehtävän tekemisen. Oppilas on saanut tehtävän valmiiksi vasta viimeistä palautuspäivää 
+edeltävänä iltana ja tehtävän palautuksella alkaa olemaan kiire. Kurssin opettaja on tehnyt vielä selväksi kurssin alussa, 
+ettei myöhästyneitä palautuksia oteta vastaan. Kurssi menisi täten oppilaalta suoraan uusintaan, mikäli hän ei ehtisi palauttaa tehtävää ajoissa. Tehtävän palautusta mutkistaa vielä se, 
+ettei tehtävää voi palauttaa verkossa, vaan tehtävä pitää palauttaa suoraan opettajalle henkilökohtaisesti. 
+Oppilas on valmis palauttamaan tehtävän ja käy opettajan toimistolla. Toimistolla oppilas tosin huomaa, ettei opettaja olekkaan paikalla ja työhuone on tyhjänä. 
+Tästäkään huolimatta oppilas ei aio hätäillä, vaan käynnistää mCon sovelluksen ja etsii opettajan sijaintia hänen nimensä avulla. Oppilaan onneksi opettaja sattuu olemaan koulun alueella ja 
+vieläpä kirjastossa, joka sijaitsee aivan vieressä. Oppilas kiirehtii kirjastoon, josta tavoittaa opettajan ja saa palautettua tehtävän juuri viimeisellä hetkellä. 
+
+![kayttotapaus 2.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis2.png)
 
 ## 2. Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna ##
 - 1. kohta: Opettajan auto on valunut ajoväylälle. Talonmies näkee ruudulta nopeasti, että opettaja on ruokalassa.
