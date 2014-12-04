@@ -45,5 +45,3 @@ ja navigointi luentosaliin helpottui kertaheitolla. Oppilas toteaa luentosalin o
 
 ![kayttotapaus 4.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis4.png)
 
-- 4. kohta: Vierailija näkee ruudulta missä luennoitsija sijaitsee. Löytää luentosalin hetkessä.
-
