@@ -43,5 +43,5 @@ ladata sovelluksen mainoksen perusteella ja kirjautuu sisään sovellukseen vier
 Oppilaalle on aikaisemmin annettu tieto luentosalin luokkanumerosta ja täten oppilas hakee mCon sovelluksesta luentosalin sijainnin luokkanumerolla. Luentosalin sijainti ilmestyy sovellukseen 
 ja navigointi luentosaliin helpottui kertaheitolla. Oppilas toteaa luentosalin olevan aivan vieressä ja ehtii ajoissa seuraamaan luentoa. 
 
-![kayttotapaus 4](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis3.png)
+![kayttotapaus 4](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis4.png)
 
