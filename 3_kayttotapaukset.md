@@ -24,10 +24,17 @@ vieläpä kirjastossa, joka sijaitsee aivan vieressä. Oppilas kiirehtii kirjast
 
 ![kayttotapaus 2.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis2.png)
 
-## 2. Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna ##
-- 1. kohta: Opettajan auto on valunut ajoväylälle. Talonmies näkee ruudulta nopeasti, että opettaja on ruokalassa.
-- 2. kohta: Oppilaan palautus on 15min päässä ja opettajaa ei löydy huoneestaan.
-			Oppilas näkee ruudulta opettajan olevan kirjastossa.
+### Skenaario 3:
+
+Lastentarhasta sattuu onnettomuus, jonka takia opettajan lapsi joutuu osalliseksi onnettomuuteen ja sairaalaan. Lastentarhasta soitetaan välittömästi opettajalle, mutta opettaja on kokouksessa, 
+eikä hänen puhelimensa on äänettömällä. Kokous jatkuu kaiken lisäksi vielä monta tuntia. Koska opettajaa ei tavoiteta puhelimitse, lastentarhan henkilökunta keksii soittaa koulun talonmiehelle. 
+Talonmies saadaan kiinni puhelimitse, joten talonmiestä pyydetään etsimään kyseinen opettaja ja tiedottamaan onnettomuudesta.  
+Tästä johtuen talonmies yrittää selvitää missä opettaja tällä hetkellä liikkuu, mutta tehtävä osottautuukin yllättävän hankalaksi. Tällöin talonmies päättää käynnistää jälleen mCon sovelluksen, 
+josta selviää opettajan olevan sillä hetkellä varattu ja kokouksessa, joten talonmies kiiruhtaa kokoustilaan tiedottamaan opettajaa lastentarhassa sattuneesta onnettomuudesta. 
+Ilmoitettuaan onnettomuudesta opettaja lähtee lapsensa luo sairaalaan lapsensa tueksi.
+
+![kayttotapaus 3.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis3.png)
+
 - 3. kohta: Opettajan lapsi on hädässä ja opettajaa ei saada kiinni muutoin. Talonmies näkee ruudulta
 			opettajan olevan kokoustilassa.
 - 4. kohta: Vierailija näkee ruudulta missä luennoitsija sijaitsee. Löytää luentosalin hetkessä.
