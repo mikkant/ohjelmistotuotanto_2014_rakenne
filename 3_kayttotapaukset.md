@@ -30,6 +30,7 @@ koulun ruokala ja talonmies lähtee ilmoittamaan tilanteesta opettajalle. Talonm
 jotta ajoväylä saadaan jälleen käyttöön. 
 Talonmies lähtee jatkamaan omia töitänsä ja opettaja viimeistelee annoksensa. Tämän jälkeen opettaja lähtee samoin siirtämään ajoneuvoa, jonka jälkeen ajoväylä onkin jo taas käytössä. 
 
+![kayttotapaus 1.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
 
 ## 2. Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna ##
 - 1. kohta: Opettajan auto on valunut ajoväylälle. Talonmies näkee ruudulta nopeasti, että opettaja on ruokalassa.
@@ -39,4 +40,3 @@ Talonmies lähtee jatkamaan omia töitänsä ja opettaja viimeistelee annoksensa
 			opettajan olevan kokoustilassa.
 - 4. kohta: Vierailija näkee ruudulta missä luennoitsija sijaitsee. Löytää luentosalin hetkessä.
 
-![kayttotapaus 1.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
