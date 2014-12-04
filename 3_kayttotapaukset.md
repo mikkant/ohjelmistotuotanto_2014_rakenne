@@ -10,7 +10,7 @@ koulun ruokala ja talonmies lähtee ilmoittamaan tilanteesta opettajalle. Talonm
 jotta ajoväylä saadaan jälleen käyttöön. 
 Talonmies lähtee jatkamaan omia töitänsä ja opettaja viimeistelee annoksensa. Tämän jälkeen opettaja lähtee samoin siirtämään ajoneuvoa, jonka jälkeen ajoväylä onkin jo taas käytössä. 
 
-![kayttotapaus 1.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
+![kayttotapaus 1](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
 
 ### Skenaario 2:
 
@@ -22,7 +22,7 @@ Oppilas on valmis palauttamaan tehtävän ja käy opettajan toimistolla. Toimist
 Tästäkään huolimatta oppilas ei aio hätäillä, vaan käynnistää mCon sovelluksen ja etsii opettajan sijaintia hänen nimensä avulla. Oppilaan onneksi opettaja sattuu olemaan koulun alueella ja 
 vieläpä kirjastossa, joka sijaitsee aivan vieressä. Oppilas kiirehtii kirjastoon, josta tavoittaa opettajan ja saa palautettua tehtävän juuri viimeisellä hetkellä. 
 
-![kayttotapaus 2.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis2.png)
+![kayttotapaus 2](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis2.png)
 
 ### Skenaario 3:
 
@@ -43,5 +43,5 @@ ladata sovelluksen mainoksen perusteella ja kirjautuu sisään sovellukseen vier
 Oppilaalle on aikaisemmin annettu tieto luentosalin luokkanumerosta ja täten oppilas hakee mCon sovelluksesta luentosalin sijainnin luokkanumerolla. Luentosalin sijainti ilmestyy sovellukseen 
 ja navigointi luentosaliin helpottui kertaheitolla. Oppilas toteaa luentosalin olevan aivan vieressä ja ehtii ajoissa seuraamaan luentoa. 
 
-![kayttotapaus 4.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis4.png)
+![kayttotapaus 4](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis4.png)
 
