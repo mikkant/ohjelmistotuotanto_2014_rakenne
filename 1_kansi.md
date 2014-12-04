@@ -1,10 +1,8 @@
 
-## Projektin kansilehti 
+## Sisätilapaikannusjärjestelmä mCon
+* Kehittäjät:
+Niki Järvinen
+Anton Mikkola
+Mika Rulamo
 
-Listaa tänne
-
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+# 4.12.2014
