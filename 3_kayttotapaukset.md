@@ -35,7 +35,15 @@ Ilmoitettuaan onnettomuudesta opettaja lähtee lapsensa luo sairaalaan lapsensa 
 
 ![kayttotapaus 3.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis3.png)
 
-- 3. kohta: Opettajan lapsi on hädässä ja opettajaa ei saada kiinni muutoin. Talonmies näkee ruudulta
-			opettajan olevan kokoustilassa.
+### Skenaario 4:
+
+Metropolian Leppävaaran kampuksella on mielenkiintoinen luento ja oppilas on tullut käymään Helsingin toimipisteestä seuraamaan luentoa. Leppävaaran kampus on opiskelijalle tosin täysin 
+tuntematon, eikä oppilaalla ole mitään käsitystä missä tilassa luento järjestetään. Oppilas löytää Leppävaaran kampuksen aulaan, jossa huomaa mainoksen mCon sovelluksesta. Oppilas päättää 
+ladata sovelluksen mainoksen perusteella ja kirjautuu sisään sovellukseen vierailijatunnuksilla. 
+Oppilaalle on aikaisemmin annettu tieto luentosalin luokkanumerosta ja täten oppilas hakee mCon sovelluksesta luentosalin sijainnin luokkanumerolla. Luentosalin sijainti ilmestyy sovellukseen 
+ja navigointi luentosaliin helpottui kertaheitolla. Oppilas toteaa luentosalin olevan aivan vieressä ja ehtii ajoissa seuraamaan luentoa. 
+
+![kayttotapaus 4.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis4.png)
+
 - 4. kohta: Vierailija näkee ruudulta missä luennoitsija sijaitsee. Löytää luentosalin hetkessä.
 
