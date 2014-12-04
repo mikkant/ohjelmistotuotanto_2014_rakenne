@@ -25,3 +25,5 @@
 - 3. kohta: Opettajan lapsi on hädässä ja opettajaa ei saada kiinni muutoin. Talonmies näkee ruudulta
 			opettajan olevan kokoustilassa.
 - 4. kohta: Vierailija näkee ruudulta missä luennoitsija sijaitsee. Löytää luentosalin hetkessä.
+
+![kayttotapaus 1.](http://users.metropolia.fi/~mikarul/ohjelmistotuotanto/projekti/kayttis1.png)
